@@ -1,4 +1,4 @@
-ligabarrial.property=msligabarrialgestionrest entorno Desarrollo
+cliente.property=msligabarrialgestionrest entorno Desarrollo
 
 logging.level.org.hibernate.sql=debug
 spring.jpa.show-sql=true
